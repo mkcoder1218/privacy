@@ -1,0 +1,20 @@
+{
+  "name": "red-sea-market-privacy-policy",
+  "version": "1.0.0",
+  "description": "Privacy Policy for Red Sea mRKet, a B2C marketplace mobile application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "privacy-policy",
+    "red-sea-market",
+    "static-site"
+  ],
+  "author": "Mikeyas",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
